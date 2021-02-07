@@ -7,7 +7,7 @@ namespace OvningNr4
     class Program
     {
         /// <summary>
-        /// The main method, vill handle the menues for the program
+        /// The main method, vill handle the menues for the program 
         /// </summary>
         /// <param name="args"></param>
         static void Main()

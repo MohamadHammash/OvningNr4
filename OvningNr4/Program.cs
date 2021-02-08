@@ -13,7 +13,7 @@ namespace OvningNr4
         static void Main()
         {
 
-
+        // Hej!
             while (true)
             {
                 Console.WriteLine("Please navigate through the menu by inputting the number \n(1, 2, 3 ,4, 0) of your choice"
